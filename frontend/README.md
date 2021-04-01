@@ -18,3 +18,5 @@ Sistema para o dia a dia de uma podologa
 - [nodemon](https://www.npmjs.com/package/nodemon)
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 - [typescript](https://www.npmjs.com/package/typescript)
+- [styled-components](https://www.npmjs.com/package/styled-components)
+- [material UI](https://material-ui.com/pt/getting-started/installation/)
